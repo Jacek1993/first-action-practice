@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo event details
-        run: echo "${{ github }}"
+        run: echo ${{ github }}
