@@ -2,6 +2,7 @@ import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
 //this is only comment
+//maybe comment but still in production code
 
 function App() {
   return (
